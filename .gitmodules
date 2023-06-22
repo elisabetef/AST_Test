@@ -1,0 +1,3 @@
+[submodule "dummyfileuploader"]
+	path = dummyfileuploader
+	url = git@bitbucket.org:elisabete_ferreira/dummyfileuploader.git
